@@ -1,0 +1,2 @@
+start chrome --user-data-dir="C:/Users/tansa/AppData/Local/Google/Chrome/User Data/ScrapingProfile"
+start chrome "https://itviec.com" --user-data-dir="C:/Users/tansa/AppData/Local/Google/Chrome/User Data/ScrapingProfile"

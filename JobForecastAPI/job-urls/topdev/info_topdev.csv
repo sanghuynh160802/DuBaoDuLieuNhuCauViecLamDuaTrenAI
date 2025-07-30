@@ -1,0 +1,191 @@
+﻿Company_Name,Job,City,Time,Number_Recruitment,Profession,Title,Level,Salary,Education,Experience,Company Nationality,Sexual,Description,Requirement,Right,Place,Number_Employee,Work_Way,Deadline,Age,Probation_Time,Source_Picture,Job_URL
+CONG TY CO PHAN CHUNG KHOAN VPBANK,Data Engineer,Ha Noi,2025-05-17,1,Fintech,Data Engineer,"Junior, Middle",26000000 - 44000000,University Graduate,From 2 years,Vietnam,Male,"Phat trien va van hanh he thong Data Warehouse va he thong quan ly du lieu, bao gom:
+Phat trien cac nen tang tich hop du lieu, khai pha du lieu, thiet ke du lieu va khai thac du lieu.
+Trien khai cac quy trinh va he thong giam sat chat luong du lieu, dam bao luon luon cung cap du lieu co do tin cay cao cho cac ben lien quan va cac quy trinh nghiep vu co nhu cau, va chat luong du lieu.
+Thiet ke va trien khai ha tang dap ung cho nhu cau luu tru, xu ly va phan tich du lieu lon.
+Hop tac voi cac thanh vien khac trong bo phan (Data Analysts, Data Scientists...) va ngoai bo phan (IT, nghiep vu...) de hoan thanh muc tieu chung.
+Dua ra cac giai phap va sang kien cai tien hieu suat he thong va tiet kiem chi phi cung nhu thoi gian trien khai:
+To chuc cac buoi seminar ve cong nghe
+Cung phoi hop va ho tro cac bo phan khac giai quyet van de ky thuat.
+Cac ban de xuat sang kien cai tien chat luong, hieu suat","Trinh do Hoc van/ Educational Qualifications:Tot nghiep Dai hoc tro len cac nganh Khoa hoc may tinh, Cong nghe thong tin, He thong thong tin quan ly hoac tuong duong.
+Kien thuc, Chuyen mon Co Lien Quan/Relevant Knowledge/ Expertise
+Database: Oracle, SQL Server, MySQL, PostgreSQL, Redshift, Big Query...Luu tru: Hadoop, Cassandra, S3....Nen tang dien toan dam may: AWS, Azure, GoogleETL tools: ODI, SSIS, Pentaho, Spark....Thanh thao it nhat 1 trong cac ngon ngu lap trinh nhu SQL, R, Python, Java, Scala, SparkCo kien thuc ve Data Warehouse, Data Mart; cac phuong phap thiet ke nhu Kimball-Inmon...
+Database: Oracle, SQL Server, MySQL, PostgreSQL, Redshift, Big Query...
+Luu tru: Hadoop, Cassandra, S3....
+Nen tang dien toan dam may: AWS, Azure, Google
+ETL tools: ODI, SSIS, Pentaho, Spark....
+Thanh thao it nhat 1 trong cac ngon ngu lap trinh nhu SQL, R, Python, Java, Scala, Spark
+Co kien thuc ve Data Warehouse, Data Mart; cac phuong phap thiet ke nhu Kimball-Inmon...
+Cac Ky Nang/ Skills
+Kha nang lam viec doc lap hoac theo doi nhomKha nang tuan thu quy che va thich nghi voi cong nghe moi
+Kha nang lam viec doc lap hoac theo doi nhom
+Kha nang tuan thu quy che va thich nghi voi cong nghe moi
+Cac Kinh nghiem Lien quan/ Relevant Experience:It nhat 2 nam kinh nghiem lam viec tai vi tri Data Engineer, Software Developer hoac tuong tu.","Thu nhap hap dan, luong thuong theo performance.
+Thuong cac ngay Le /Tet (theo chinh sach cong ty tung thoi ki)
+Fix luong thang 13
+Che do ngay phep hap dan theo tung cap bac
+BHXH, BH suc khoe Vpbank care.
+Duoc tham gia cac khoa dao tao tuy thuoc vao khung dao tao cho tung vi tri.
+Thoi gian lam viec: tu thu 2 - thu 6.
+Lam viec: 40h/ tuan.
+Moi truong lam viec nang dong, than thien, co nhieu co hoi hoc dao tao, hoc hoi va phat trien; duoc tham gia nhieu hoat dong van hoa thu vi (cuoc thi ve the thao, tai nang, hoat dong team building,...)","Tang 25, Toa nha VPBank 89 Lang Ha, Quan Dong Da, Thanh pho Ha Noi",100-499Employees,In Office,2025-05-27,31-34,6 months,"Oracle, SQL, Data Engineer",https://assets.topdev.vn/images/2022/05/10/TopDev-MicrosoftTeams-image2-TngNguynXun-1652147637.png,https://topdev.vn/detail-jobs/data-engineer-cong-ty-co-phan-chung-khoan-vpbank-2036108?src=topdev_search&medium=searchresult
+CONG TY TNHH CUNG CAP GIAI PHAP DICH VU GIA TRI GIA TANG (VIVAS),Data Engineer,Ha Noi,2025-05-04,1,Phan Mem,Data Engineer,"Junior, Middle, Senior",23000000 - 34000000,No degree required,From 1 year,Vietnam,Male,"Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","115 Tran Duy Hung, Phuong Trung Hoa, Quan Cau Giay, Thanh pho Ha Noi",100-499 Employees,In Office,2025-05-14,31-34,12 months,"Linux, SQL, Data Engineer",https://assets.topdev.vn/images/2020/11/09/vivas-logo.png,https://topdev.vn/detail-jobs/data-engineer-cong-ty-tnhh-cung-cap-giai-phap-dich-vu-gia-tri-gia-tang-vivas-2035906?src=topdev_search&medium=searchresult
+CONG TY TNHH CUNG CAP GIAI PHAP DICH VU GIA TRI GIA TANG (VIVAS),Data Engineer,Ha Noi,2025-05-14,1,Phan Mem,Data Engineer,"Junior, Middle, Senior",14000000 - 22000000,No degree required,From 1 year,Vietnam,Male,"Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","Muc luong thoa thuan, khong gioi han
+Duoc ho tro an trua
+Duoc dong BHXH, BHYT, BHTN va huong day du cac quyen loi theo Luat lao dong Viet Nam
+Mot nam co the dat 15 den 20 thang luong
+Xet tang luong theo quy dinh cua Cong ty
+Du lich hang nam
+Duoc dao tao va lam viec trong moi truong tre trung, chuyen nghiep, co co hoi thang tien
+Thoi gian lam viec: Tu thu 2 den thu 6 (Sang 8h00-11h30, Chieu 13h00-17h30)","115 Tran Duy Hung, Phuong Trung Hoa, Quan Cau Giay, Thanh pho Ha Noi",100-499 Employees,In Office,2025-06-13,25-28,12 months,"Linux, SQL, Data Engineer",https://assets.topdev.vn/images/2020/11/09/vivas-logo.png,https://topdev.vn/detail-jobs/data-engineer-cong-ty-tnhh-cung-cap-giai-phap-dich-vu-gia-tri-gia-tang-vivas-2036378?src=topdev_search&medium=searchresult
+Finan Pte. Ltd.,Data Engineer,Ho Chi Minh,2025-05-19,1,Phan Mem,Data Engineer,"Middle, Senior",36000000 - 54000000,No degree required,From 3 years,Vietnam,Male,"Work closely with the data science and business intelligence teams to develop data models and pipelines for research, reporting, and machine learning.
+Develop automation Python script to support internal teams like CRM, Admin framework, ad hoc project
+Develop API using Python framework for internal transfer data.
+Work with data to solve business problems, building and maintaining the infrastructure to answer questions and improve processes.
+Help streamline our data science workflows, adding value to our product offering and building out our customer lifecycle and retention models.","At least 3 years of experience with Python, SQL, and data visualization/exploration tools.
+At least 1 year of experience working with AI tool for coding or research
+Knowledge of programming languages such as SQL, Postgres, BigQuery, ClickHouse, and Python, as well as NoSQL databases like MongoDB and Elasticsearch.
+Technical proficiency in database design and development, data modeling, data mining techniques, and segmentation.
+Experience working with ETL frameworks and databases.
+Strong problem-solving, teamwork, and communication skills (both verbal and written).
+Comfortable working in a dynamic, research-oriented environment with multiple concurrent projects.","Comprehensive benefits - Full insurance coverage, lunch & parking allowance, and additional support.
+Attractive compensation - Competitive salary (negotiable) with performance-based bonuses.
+Exciting start-up environment - Work with experienced leaders in a fast-paced, innovative team.
+Career growth - Take on new challenges, sharpen your skills, and make a real impact. Training support and clear career progression.
+Flexible & fun workplace - Modern office, flexible hours, and remote-friendly options.
+Team bonding & celebrations - Company birthday events, parties, Happy Hour, and annual team trips.
+Work Location:173 Tran Nao, An Khanh, Thu Duc, Ho Chi Minh City
+Working Hours:Monday - Friday (08:30 - 18:00), Saturday (08:30 - 12:00)","173 Tran Nao, Phuong An Khanh, Thanh pho Thu Duc, Thanh pho Ho Chi Minh",25-99Employees,In Office,2025-06-08,23-26,12 months,"SQL, Python, Data Engineer",https://assets.topdev.vn/images/2022/01/04/TopDev-AvatarSBH-DuyDoanDat-1641263183.jpg,https://topdev.vn/detail-jobs/data-engineer-finan-pte-ltd-2036236?src=topdev_search&medium=searchresult
+MBBANK,Data Engineer - Khoi Du lieu (HOLT.02),Ha Noi,2025-01-03,1,Bank,Data Engineer - Khoi Du lieu (HOLT.02),"Fresher, Junior, Middle",14000000 - 22000000,University Graduate,Not required,Vietnam,Male,"Thuc hien cong viec tich hop, phat trien du lieu, ho tro van hanh he thong cong nghe du lieu trong mang chuc nang duoc giao dam bao dung quy trinh, quy dinh cua MB nham thuc hien thanh cong muc tieu chung cua don vi.
+Tu phat trien hoac phoi hop cung cac nha cung cap phat trien/trien khai cac giai phap Cong nghe du lieu theo cac cong viec duoc phan cong.
+Duy tri hoat dong cua cac san pham/dich vu duoc phan cong.
+Nghien cuu, tim kiem, tham muu cac giai phap/sang kien Cong nghe du lieu va de xuat nha cung cap dap ung yeu cau cua cong viec.
+Phat trien, kiem thu (Unit test), nghiem thu va ho tro muc 2 (Level 2) cac san pham va dich vu Cong nghe du lieu","Tot nghiep Dai hoc cac chuyen nganh Cong nghe thong tin, Dien tu-Vien thong, Toan Tin, Khoa hoc may tinh, Khoa hoc du lieu,...
+Uu tien ung vien co mot trong cac chung chi nghe quoc te ve lap trinh phat trien du lieu ve Oracle (Oracle Certified Associate (OCA), Oracle Certified Professional (OCP), Oracle Certified Master (OCM), Oracle Certified Expert (OCE) va Specialist cho Oracle Database 12c...), Netezza, BI Tableau, BI publisher, Cloud ( AWS Certified Solutions Architect, AWS Certified Developer - Associate, ...).
+TOEIC 450 hoac chung chi tuong duong.",Trai nghiem Thu nhap hap dan voi goi dai ngo toan dien:,"MB Tower, so 18 Le Van Luong, Phuong Trung Hoa, Quan Cau Giay, Thanh pho Ha Noi",Over 1000Employees,In Office,2025-01-11,30-33,12 months,"Oracle, Cloud, Data Engineer",https://assets.topdev.vn/images/2023/10/06/TopDev-MB-Logo-main-01-1696561561.png,https://topdev.vn/detail-jobs/data-engineer-khoi-du-lieu-holt-02-mbbank-2034934?src=topdev_search&medium=searchresult
+MBBANK,Data Engineer - Khoi Du lieu (HOLT.02),Ha Noi,2025-02-19,1,Bank,Data Engineer - Khoi Du lieu (HOLT.02),"Fresher, Junior, Middle",26000000 - 41000000,No degree required,Not required,Vietnam,Male,"Trai nghiem Thu nhap hap dan voi goi dai ngo toan dien:
+Thuong thang luong 13; Thuong thanh tich 06 thang, 1 nam ; Thuong cac dip le tet trong nam ; Thuong theo danh hieu ca nhan va tap the...
+Du lich nghi duong hang nam, Kham suc khoe dinh ki; Goi bao hiem suc khoe ca nhan va nguoi than (MIC);
+Qua tang va ngay nghi sinh nhat huong nguyen luong
+Co hoi nghe nghiep va phat trien ban than:
+Duoc thu suc voi cac nen tang cong nghe moi, tham gia vao nhung du an chuyen doi lon cua ngan hang
+Co co hoi hoc hoi tu cac Chuyen gia, lanh dao noi bo hang dau tai MB trong linh vuc IT, Tai chinh ngan hang
+Duoc trai nghiem cac phuong phap hoc tap moi va phat trien nang luc theo lo trinh cong danh.
+Huong cac chinh sach ho tro, khuyen khich hoc tap, nang cao trinh do va phat trien ban than (chung chi nghe quoc te...)
+Moi truong lam viec ly tuong voi:
+Nhung phuong phap lam viec moi day su linh hoat, sang tao va hieu qua
+Nhung nguoi cong su than thien va tai nang
+Co so vat chat, khong gian lam viec xanh va hien dai.","Trai nghiem Thu nhap hap dan voi goi dai ngo toan dien:
+Thuong thang luong 13; Thuong thanh tich 06 thang, 1 nam ; Thuong cac dip le tet trong nam ; Thuong theo danh hieu ca nhan va tap the...Du lich nghi duong hang nam, Kham suc khoe dinh ki; Goi bao hiem suc khoe ca nhan va nguoi than (MIC);
+Thuong thang luong 13; Thuong thanh tich 06 thang, 1 nam ; Thuong cac dip le tet trong nam ; Thuong theo danh hieu ca nhan va tap the...
+Du lich nghi duong hang nam, Kham suc khoe dinh ki; Goi bao hiem suc khoe ca nhan va nguoi than (MIC);
+Qua tang va ngay nghi sinh nhat huong nguyen luong
+Qua tang va ngay nghi sinh nhat huong nguyen luong
+Co hoi nghe nghiep va phat trien ban than:
+Duoc thu suc voi cac nen tang cong nghe moi, tham gia vao nhung du an chuyen doi lon cua ngan hangCo co hoi hoc hoi tu cac Chuyen gia, lanh dao noi bo hang dau tai MB trong linh vuc IT, Tai chinh ngan hangDuoc trai nghiem cac phuong phap hoc tap moi va phat trien nang luc theo lo trinh cong danh.Huong cac chinh sach ho tro, khuyen khich hoc tap, nang cao trinh do va phat trien ban than (chung chi nghe quoc te...)
+Duoc thu suc voi cac nen tang cong nghe moi, tham gia vao nhung du an chuyen doi lon cua ngan hang
+Co co hoi hoc hoi tu cac Chuyen gia, lanh dao noi bo hang dau tai MB trong linh vuc IT, Tai chinh ngan hang
+Duoc trai nghiem cac phuong phap hoc tap moi va phat trien nang luc theo lo trinh cong danh.
+Huong cac chinh sach ho tro, khuyen khich hoc tap, nang cao trinh do va phat trien ban than (chung chi nghe quoc te...)
+Moi truong lam viec ly tuong voi:
+Nhung phuong phap lam viec moi day su linh hoat, sang tao va hieu quaNhung nguoi cong su than thien va tai nangCo so vat chat, khong gian lam viec xanh va hien dai.
+Nhung phuong phap lam viec moi day su linh hoat, sang tao va hieu qua
+Nhung nguoi cong su than thien va tai nang
+Co so vat chat, khong gian lam viec xanh va hien dai.",Trai nghiem Thu nhap hap dan voi goi dai ngo toan dien:,"MB Tower, so 18 Le Van Luong, Phuong Trung Hoa, Quan Cau Giay, Thanh pho Ha Noi",Over 1000 Employees,In Office,2025-02-24,24-27,6 months,"Oracle, Cloud, Data Engineer",https://assets.topdev.vn/images/2023/10/06/TopDev-MB-Logo-main-01-1696561561.png,https://topdev.vn/detail-jobs/data-engineer-khoi-du-lieu-holt-02-mbbank-2035083?src=topdev_search&medium=searchresult
+Adnovum,"Data Engineer (Nifi, English)",Ho Chi Minh,2025-04-15,1,Outsourcing,"Data Engineer (Nifi, English)","Middle, Senior",21000000 - 31000000,University Graduate,From 4 years,Switzerland,Male,"Designing, building, testing, and maintaining scalable data pipelines and management systems
+Developing high-performance algorithms, predictive models, and prototypes to improve data efficiency
+Ensuring data architecture aligns with business requirements and industry best practices
+Integrating emerging data management and software engineering technologies into existing data structures
+Establishing efficient processes for data mining, modeling, and production
+Creating and optimizing custom software components and analytics applications
+Exploring new ways to leverage existing data for business insights and operational improvements
+Utilizing a wide range of programming languages and tools to integrate data systems effectively
+Implementing and updating disaster recovery strategies for data infrastructure
+Continuously enhancing data reliability, quality, and security through best practices and innovative solutions","Bachelor's degree in Data Science, Computer Science, IT, or related field
+At least 4 years of experience as a Data Engineer or in a similar role
+Expertise in Data Modeling, Architecture, Warehousing, and Lakes
+Proficiency in Linux/Unix, shell scripting, and at least one scripting language (Python, R, etc)
+Experience with ETL tools (e.g., Spark, Nifi, Pentaho)
+Hands-on experience with HDFS-based analytics (processing, storage, governance, security)
+Solid understanding of RDBMS (MySQL, PostgreSQL, or similar) and NoSQL
+Cloud experience (Azure) preferred; microservices deployment is a plus
+Strong communication skills in English","Competitive salary, 13th-month salary, and bonuses (variable bonus, loyalty, referral, etc.)
+100% salary and full insurance coverage during the probation period
+Premium healthcare plan and additional insurance
+14-18 days of paid leave annually","Tang 5, Etown 2, 364 Cong Hoa, Phuong 13, Quan Tan Binh, Thanh pho Ho Chi Minh",25-99 Employees,In Office,2025-04-30,29-32,12 months,"Python, English, Data Engineer",https://assets.topdev.vn/images/2023/01/19/TopDev-AdnovumLogo-1674093604.png,https://topdev.vn/detail-jobs/data-engineer-nifi-english-adnovum-2035839?src=topdev_search&medium=searchresult
+HEINEKEN Vietnam,Data Engineering Manager,Ho Chi Minh,2025-01-07,1,"Kinh Doanh,San xuat,Manufacturing",Data Engineering Manager,Manager,26000000 - 41000000,University Graduate,Above 10 years,"Netherlands, Vietnam",Male,"All Levels (scope and complexity will increase from single product and domain to multiple products and/or domains).
+Structure end-to-end processes of data extraction, transformation, and storage to deploy models and analytical solutions in real-time and offline analytic processing.
+Handle activities such as quality assurance, data migration and integration, and solution deployment to ensure the business gets the best value.
+Implement, maintain, and further develop ETL processes, data lineage, and observability across large-scale data ingestion from a variety of sources.
+Design and implement data flows to ensure efficient and reliable data movement (e.g., unit and integration tests).
+Provide technical support in understanding business problems and designing smart data products.
+Collaborate within an agile culture, contributing to the team's success.
+Maintain strong relationships with stakeholders to ensure collaboration and delivery of objectives (Relationship creation and management of broader team's stakeholders to ensure strong connection and collaboration for team).
+Continued self-development and research of best-in-class analytical approached (management and/or development and capability building of Junior/Senior Data Engineers).
+Potential responsibility for selection of AA Vendors and AA Tooling workbench (Procurement & Enablement of tools sits with GIS).","BA/MSc in Statistics, Mathematics, or a related field; equivalent work experience accepted. (MSc/PhD)
+3+ years in a pure analytical/science role (5+ years)
+Excellent written and verbal communication skills.
+Significant commercial experience in a similar position.
+Proficiency with Python (inc. strong data analytics skills using Python).
+Excellent software engineering skills (including unit testing, integration testing, OOP).
+Experience working with large datasets through Spark and RDBMS.
+Solid knowledge of PySpark with the ability to apply it to write Spark applications as well as analyze data in a distributed environment.
+Experience working with a large development team (CI/CD).
+Very good SQL skills and ability to extract information from databases.
+Ability to build and maintain strong collaborative relationships with stakeholders across the business.
+Demonstrated ability to effectively manage multiple simultaneous projects and deliverables.
+Communicate effectively with various stakeholders, tailoring your message to your audience's level of technical understanding
+Experience with Azure development environment
+Experience in building/releasing Infrastructure as Code (e.g., Terraform).
+Experience with containerization technologies and orchestrators (e.g., Docker and Kubernetes).
+Understanding of machine learning models, deployment, and monitoring.
+Interest in machine learning and/or desire to develop skills.
+Experience working in agile organizations.
+Excellent written and verbal English.","A diverse and open working culture, where your true identity is celebrated.
+Multiple career opportunities to rotate within Functions or cross-functions.
+Your wellbeing will be taken care by our Health & Safety Team since Day 1.
+Be a part of our sustainability journey in Brewing the Better Vietnam.
+Performance appraisal twice a year to guarantee constructive feedback
+Performance bonus (estimated at least 3 months) and 13th month salary bonus
+Bao Viet Insurance for employees and family
+Annual leave: 18 days/year
+Flexible benefit voucher
+80% lunch in canteen
+Annual team building, Town hall, YEP
+Gift for special holidays and sponsor traveling ticket in Tet Holiday
+Working hours: Monday to Friday (Morning 8:00 AM - 12:00 PM, Afternoon 1:00 PM - 5:00 PM)","Vietcombank Tower, 18th & 19th floor, 05 Cong Truong Me Linh, Phuong Ben Nghe, Quan 1, Thanh pho Ho Chi Minh",Over 1000Employees,Hybrid,2025-01-15,32-35,12 months,"SQL, Data Engineer, Azure, CI/CD, PySpark",https://assets.topdev.vn/images/2023/07/25/TopDev-Logo-HNK---VN---Vy-Ho-Thuy-1690250766.png,https://topdev.vn/detail-jobs/data-engineering-manager-heineken-vietnam-2034964?src=topdev_search&medium=searchresult

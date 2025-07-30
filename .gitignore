@@ -1,0 +1,7 @@
+# Bỏ thư viện ảo và các file lớn
+venv/
+*.h5
+*.keras
+*.dll
+*.pyd
+__pycache__/

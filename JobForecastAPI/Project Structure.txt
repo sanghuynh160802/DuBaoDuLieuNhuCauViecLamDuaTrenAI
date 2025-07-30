@@ -1,0 +1,11 @@
+JobForecastAPI/
+│
+├── server.py                # Main entry point for the Flask app
+├── config.py                # Configuration variables (e.g., file paths, constants)
+├── data_preprocessing.py    # Data loading, cleaning, and preprocessing
+├── model_handler.py         # Model loading and prediction logic
+├── api/                     # API-related code
+│   ├── __init__.py
+│   ├── routes.py            # Flask API routes
+│   └── utils.py             # Utility functions for the API
+└── requirements.txt         # Dependencies
